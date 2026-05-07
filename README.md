@@ -98,7 +98,7 @@ http://127.0.0.1:7860
 
 ---
 
-# 🖥️ is web application can be deployed using:
+# 🖥️ This is web application can be deployed using:
 
 - Hugging Face Spaces
 - Rendear
