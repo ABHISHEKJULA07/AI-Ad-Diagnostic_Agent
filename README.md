@@ -8,14 +8,14 @@ Built with Python, Gradio, and Generative AI, this application analyzes advertis
 
 # 🌐 Features
 
-✅ Interactive AI-powered web interface  
-✅ Meta Ads campaign diagnostics  
-✅ Google Ads campaign diagnostics  
-✅ AI-generated optimization recommendations  
-✅ Real-time campaign issue analysis  
-✅ User-friendly Gradio interface  
-✅ Fast Gemini AI responses  
-✅ Example campaign troubleshooting workflows  
+- Interactive AI-powered web interface  
+- Meta Ads campaign diagnostics  
+- Google Ads campaign diagnostics  
+- AI-generated optimization recommendations  
+- Real-time campaign issue analysis  
+- User-friendly Gradio interface  
+- Fast Gemini AI responses  
+- Example campaign troubleshooting workflows  
 
 ---
 
@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🔑 Gemini API Configuration
+## 🔑 Gemini API Configuration
 
 Create a `.env` file in the project root:
 
@@ -84,7 +84,7 @@ https://aistudio.google.com/app/apikey
 
 ---
 
-# ▶️ Run the Web Application
+## ▶️ Run the Web Application
 
 ```bash
 python app.py
