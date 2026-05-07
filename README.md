@@ -36,19 +36,19 @@ The AI Ad Diagnostic Agent can analyze:
 
 # ⚙️ Installation Guide
 
-## 1️⃣ Clone Repository
+## 1. Clone Repository
 
 ```bash
 git clone https://github.com/ABHISHEKJULA07/AI-Ad-Diagnostic_Agent.git
 ```
 
-## 2️⃣ Navigate to Project Folder
+## 2. Navigate to Project Folder
 
 ```bash
 cd AI-Ad-Diagnostic_Agent
 ```
 
-## 3️⃣ Create Virtual Environment
+## 3. Create Virtual Environment
 
 ### Windows
 
@@ -62,7 +62,7 @@ Activate virtual environment:
 venv\Scripts\activate
 ```
 
-## 4️⃣ Install Dependencies
+## 4. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
