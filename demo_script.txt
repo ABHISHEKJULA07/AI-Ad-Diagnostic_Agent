@@ -1,0 +1,6 @@
+1. Start server → python app.py
+2. Open Postman
+3. Send POST /query
+4. Show response
+5. Explain flow:
+   query → logic → prompt → AI → response
