@@ -7,7 +7,7 @@ Your response must include:
 
 ## Problem Analysis
 ## Possible Causes
-## Recommended Fixes
+## Recommended changes
 ## Priority Actions
 ## Expert Tips
 
